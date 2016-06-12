@@ -1,0 +1,8 @@
+*.DS_Store
+*.cache
+venv/
+*__pycache__*
+*egg*
+build/
+dist/
+temp
