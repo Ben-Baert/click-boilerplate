@@ -54,3 +54,4 @@ venv/
 ENV/
 .spyderproject
 .ropeproject
+roadmap.md
